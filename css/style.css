@@ -1,0 +1,42 @@
+h1 {
+    color:rgb(19, 1, 1);
+    background-color: lightgray;
+    position: absolute;
+    margin: auto;
+    left: 45%;
+   
+
+}
+h2{
+
+    left: 0%;
+    color:rgb(19, 1, 1);
+    background-color: lightgray;
+    position: absolute;
+    margin: 10px;
+    
+
+}
+ol {
+    list-style-type: decimal;
+    margin-left: 0px;
+    margin-top: 50px;
+    font-size: 15px;
+    background-color: burlywood;
+    position:absolute;
+  }
+#myCanvas {
+    border: 1px solid black;
+    background-color: lightgray;
+    background-image: url("../assets/scenes/1.png");
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    margin: auto;
+    transform: translate(-50%, -50%);
+}
+
+video {
+    display:none;
+}
