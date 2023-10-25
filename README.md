@@ -1,3 +1,2 @@
-# tpCanvas
-HICHAM FAIDI /
+# Projet Canvas
 ZIHENG WANG
